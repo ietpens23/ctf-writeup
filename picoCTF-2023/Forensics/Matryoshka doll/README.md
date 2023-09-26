@@ -9,9 +9,10 @@
 ## Approach
 
 Pada challenge ini, kami diberi sebuah file bernama `dolls.jpg`
+
 Dari deskripsi, terdapat clue yaitu `Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another.`
 
-*Matryoshka, adalah boneka khas Rusia yang dapat diisi dengan bentuk boneka-boneka yang lebih kecil. Nama "matryoshka" diambil dari nama "Matryona", yang merupakan nama dari seorang wanita yang bertubuh gemuk.*
+>*Matryoshka, adalah boneka khas Rusia yang dapat diisi dengan bentuk boneka-boneka yang lebih kecil. Nama "matryoshka" diambil dari nama "Matryona", yang merupakan nama dari seorang wanita yang bertubuh gemuk.*
 
 Untuk menemukan file tersembunyi didalam sebuah file, kita dapat menggunakan tools [binwalk](https://github.com/ReFirmLabs/binwalk) 
 
@@ -30,7 +31,7 @@ Extract menggunakan perintah `binwalk -e dolls.jpg`
 
 ![approach](docs/approach.png)
 
-Didalam folder hasil ekstrak, terdapat folder `base_images` didalam folder tersebut terdapat file bernama `2_c.jpg`.
+Didalam folder hasil ekstrak, terdapat folder `base_images`, yang mana terdapat file bernama `2_c.jpg`.
 
 Ulangi seperti langkah pertama, gunakan perintah `binwalk -e 2_c.jpg` 
 
