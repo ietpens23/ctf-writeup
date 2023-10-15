@@ -11,7 +11,7 @@ Ketika file di ekstrak akan terlihat seperti ini
 
 terilhat bahwa ada sebuah file yang berurutan namanya dari 0000.png sampai 0356.png ketika di buka terdapat sebuah qr code , ketika qr ke 0000.png di scan munculah hasil sebuah base64 kemudian base64 itu di decode maka akan muncul seperti berikut 
 
-![base64tojpeg](2.png)
+![base64tojpeg](docs/2.png)
 
 terdapat sebuah teks JFIF yang mungkin saja ketika seluruh qrcode di gabungkan akan menghasilkan gambar berformat JPEG, untuk meng-scan qr code dan menggabungkan hasilnya maka dibutuhkan sebuah kode seperti berikut dengan bahasa pemrograman python
 
