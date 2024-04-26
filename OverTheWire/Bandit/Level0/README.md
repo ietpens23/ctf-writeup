@@ -15,3 +15,5 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ![SSH](docs/Level0-1.png)
 
 Setelah menghubungkan menggunakan SSH, terdapat prompt untuk memasukkan password, masukkan **bandit0** lalu enter.
+
+![Level0-2](docs/Level0-2.png)
