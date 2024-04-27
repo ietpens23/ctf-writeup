@@ -2,7 +2,7 @@
 
 ## Approach
 
-> The password for the next level is stored in the file **data.txt** and is the only line of text that occurs only once
+> The password for the next level is stored in the file **data.txt**, which contains base64 encoded data
 
 ## Explanation
 
@@ -12,6 +12,6 @@ Dari soal diatas dijelaskan bahwa terdapat password yang nantinya digunakan untu
 bandit10@bandit:~$ base64 -d data.txt
 ```
 
-![!image](./docs/image.png)
+![!image](docs/image.png)
 
 Result: `6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM`
