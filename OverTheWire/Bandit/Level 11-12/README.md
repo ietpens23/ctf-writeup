@@ -1,4 +1,4 @@
-# Bandit - Level 10-11
+# Bandit - Level 11-12
 
 ## Approach
 
