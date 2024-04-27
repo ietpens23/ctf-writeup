@@ -7,6 +7,7 @@
 ## Explanation
 
 Dari soal diatas dijelaskan bahwa terdapat password yang nantinya digunakan untuk login ke next level berikutnya, ketika di coba di urutkan datanya terlihat seperti ini
+
 ```
 bandit8@bandit:~$ sort data.txt
 ```
