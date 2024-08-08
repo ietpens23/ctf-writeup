@@ -34,8 +34,8 @@ Terima kasih
 
 ## Contributor
 
-<a href="https://github.com/tribone23/CTF-Writeups/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tribone23/CTF-Writeups" />
+<a href="https://github.com/ietpens23/ctf-writeup/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ietpens23/ctf-writeup" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
