@@ -1,6 +1,15 @@
+---
+runme:
+  document:
+    relativePath: README.md
+  session:
+    id: 01JAJEKZ0B373PAA9NYMRD605E
+    updated: 2024-10-19 20:15:15+07:00
+---
+
 # HFS CTF Write Up
 
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/tribone23/CTF-Writeups)
+![Maintained](ht****************************************************vg) ![GitHub commit activity](ht******************************************************************ps)
 
 Repository ini berisi beberapa kumpulan write up CTF dari berbagai challenge yang pernah kami ikuti. Tujuan dari pembuatan repository ini adalah sebagai arsip serta referensi untuk CTF berikutnya.
 
@@ -34,9 +43,9 @@ Terima kasih
 
 ## Contributor
 
-<a href="https://github.com/ietpens23/ctf-writeup/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ietpens23/ctf-writeup" />
+<a href="ht********************************************************rs">
+  <img src="ht**************************************************up" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](ht*****************ks).
 
